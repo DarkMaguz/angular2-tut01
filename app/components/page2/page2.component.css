@@ -1,0 +1,50 @@
+ul {
+	display: block;
+	padding-top: 1rem;
+}
+
+li {
+	background-color: #445566;
+	margin: 0rem 1rem 0.5rem 1rem;
+	display: flex;
+	border-radius: 15px;
+}
+
+.courseContent {
+	background-color: #aabbcc;
+	height: 4rem;
+}
+
+.courseHeader {
+	line-height: 4rem;
+	display: inline;
+	padding-top: 1rem;
+	flex: 4;
+	margin-left: 1rem;
+}
+
+.buttonTjeks {
+	background-color: #778899;
+	height: 4rem;
+	width: 4rem;
+	display: inline-block;
+	flex: 1;
+	margin-top: 1rem;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+.buttonCourse {
+	background-color: #778899;
+	height: 4rem;
+	width: 4rem;
+	display: inline-block;
+	flex: 1;
+	margin-top: 1rem;
+	margin-left: 1rem;
+	margin-bottom: 1rem;
+	border-radius: 15px;
+	cursor: pointer;
+}
