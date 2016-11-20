@@ -1,0 +1,79 @@
+img {
+	width: 100%;
+	transition: opacity 1s;
+}
+
+.salesText {
+	transition: opacity 1s;
+	background-attachment:scroll;
+	background-clip:border-box;
+	background-color:rgba(255, 255, 255, 0.8);
+	background-image:none;
+	background-origin:padding-box;
+	background-size:auto;
+	border-bottom-color:rgb(204, 204, 204);
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-image-outset:0px;
+	border-image-repeat:stretch;
+	border-image-slice:100%;
+	border-image-source:none;
+	border-image-width:1;
+	border-left-color:rgb(204, 204, 204);
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:rgb(204, 204, 204);
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:rgb(204, 204, 204);
+	border-top-style:solid;
+	border-top-width:1px;
+	clear:both;
+	color:rgb(51, 51, 51);
+	font-family:"Open Sans", Arial, sans-serif;
+	font-size:30px;
+	border-radius: 1em;
+	left: 0px;
+	margin-bottom: 0px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 0px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 40px;
+	position: absolute;
+	right: 0px;
+	text-align: left;
+	top: 10rem;
+}
+
+.courseContent {
+	background-color: white;
+	height: 4rem;
+}
+
+.courseHeader {
+	line-height: 4rem;
+	display: inline;
+	padding-top: 1rem;
+	flex: 5;
+	margin-left: 1rem;
+}
+
+.buttonTjeks {
+	background-color: white;
+	height: 4rem;
+	width: 4rem;
+	display: inline-block;
+	flex: 1;
+	margin-top: 1rem;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+.page1Content {
+	background-color: white;
+}
